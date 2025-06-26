@@ -6,7 +6,7 @@ lastmod: 2020-11-20T10:11:30-02:00
 draft: false
 vimeo: 486585103
 emoji: 🛡️
-video_length: 4:01
+video_length: 4:0
 ---
 
 {{< file "firebase" "firestore.rules" >}}
